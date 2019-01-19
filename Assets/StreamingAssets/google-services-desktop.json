@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "582748546152",
+    "firebase_url": "https://vr-hack-1547913415542.firebaseio.com",
+    "project_id": "vr-hack-1547913415542",
+    "storage_bucket": "vr-hack-1547913415542.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582748546152:android:6ea3f9a6f11120e0",
+        "android_client_info": {
+          "package_name": "com.UofTHacks.vrhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582748546152-bm2m5imo9mulus82eukju10hm8ufetep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA44fpcS1dd82HnYkKrtvy6vu2i-j3Bcxc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
