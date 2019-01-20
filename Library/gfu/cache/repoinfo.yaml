@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-01-19T21:53:20.146-06:00
-  initializedAtString: 2019-01-19T21:53:20.146-06:00
+  lastUpdatedAtString: 2019-01-20T06:50:08.881-05:00
+  initializedAtString: 2019-01-20T06:50:08.881-05:00
   currentGitRemote:
     name: origin
-    url: http://github.com/bjelefano/uofthacks_VRgame.git
+    url: https://github.com/bjelefano/uofthacks_VRgame.git
     login: 
     user: 
     host: 
@@ -30,9 +30,9 @@ MonoBehaviour:
     name: master
     remote:
       name: origin
-      url: http://github.com/bjelefano/uofthacks_VRgame.git
+      url: https://github.com/bjelefano/uofthacks_VRgame.git
     trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: http://github.com/bjelefano/uofthacks_VRgame.git
+    url: https://github.com/bjelefano/uofthacks_VRgame.git
   currentHead: 
